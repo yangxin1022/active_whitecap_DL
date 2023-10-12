@@ -4,11 +4,15 @@ This repository is for active whitecap extraction. It includes code for image st
 
 ## Table of Contents
 
-- [Dependencies](#1-dependencies)
-- [Horizon Detection](#2-horizon-detection)
-- [U-Net model training](#3-training)
-- [Using a pre-trained model](#4-using-a-pre-trained-model)
-- [Training dataset](#5-training-dataset)
+- [Active Whitecap Extraction Using U-Net](#active-whitecap-extraction-using-u-net)
+  - [Table of Contents](#table-of-contents)
+- [1 Dependencies](#1-dependencies)
+  - [Using conda:](#using-conda)
+  - [Manually:](#manually)
+- [2 Horizon Detection](#2-horizon-detection)
+- [3 U-Net model training](#3-u-net-model-training)
+- [4 Using a pre-trained model](#4-using-a-pre-trained-model)
+- [5 Training dataset](#5-training-dataset)
 - [Reference](#reference)
 
 # 1 Dependencies
@@ -51,5 +55,7 @@ pip install opencv-python
 https://drive.google.com/file/d/1MPFswZoO_TVPewWFIxUD5yxapu-4mMzj/view?usp=sharing
 # Reference
 https://github.com/cs230-stanford/cs230-code-examples
+
 https://www.kaggle.com/code/dhananjay3/image-segmentation-from-scratch-in-pytorch
+
 https://github.com/caiostringari/deepwaves
