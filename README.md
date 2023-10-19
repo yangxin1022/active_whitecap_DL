@@ -49,7 +49,8 @@ pip install opencv-python
 
 
 # 4 Using a pre-trained model
-
+The pre-trained model can be downloaded from the following link:
+https://drive.google.com/drive/folders/1glBPHuooSRXiX8xFxld-QfgdkPDSGvL7?usp=share_link
 
 # 5 Training dataset
 https://drive.google.com/file/d/1MPFswZoO_TVPewWFIxUD5yxapu-4mMzj/view?usp=sharing
